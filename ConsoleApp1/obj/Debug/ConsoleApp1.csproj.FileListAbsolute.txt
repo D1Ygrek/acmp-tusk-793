@@ -1,0 +1,7 @@
+C:\Users\Demid\Desktop\курсовая\практика\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Demid\Desktop\курсовая\практика\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Demid\Desktop\курсовая\практика\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Demid\Desktop\курсовая\практика\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Demid\Desktop\курсовая\практика\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Demid\Desktop\курсовая\практика\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Demid\Desktop\курсовая\практика\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
